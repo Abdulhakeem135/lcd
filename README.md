@@ -6,7 +6,7 @@ Including, Degree Rank, Cluster Rank, Vote Rank, Vote Rank ++,
 k-sheel, H-index
 
 # Mertics Used
-ft, ftc, ftc_lambda, ls
+ft, ftc, ftc_lambda, $l_s$
 # Run
 python ft.py 
 
