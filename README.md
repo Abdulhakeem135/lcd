@@ -1,5 +1,5 @@
 # lcd Algorithm
-LCD: Identifying Influential Nodes in Complex Networks through Layering, Clustering, and Degree
+LCD: Identifying Influential Nodes in Complex Networks through Layered Clustering and Degree
 
 # state-of-the-art Method
 Including, Degree Rank, Cluster Rank, Vote Rank, Vote Rank ++, 
