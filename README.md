@@ -8,4 +8,5 @@ k-sheel, H-index
 # Mertics Used
 ft, ftc, ftc_lambda, ls
 # Run
-python ft.py, python ftc.py ..etc
+python ft.py 
+
