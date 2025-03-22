@@ -1,5 +1,5 @@
 # lcd Algorithm
-LCD: Identifying Influential Nodes in Complex Networks through Layered Clustering and Degree
+LCD: Identifying Influential Nodes in Complex Networks with Layered Clustering and Degree.
 
 # state-of-the-art Method
 Including, Degree Rank, Cluster Rank, Vote Rank, Vote Rank ++, 
@@ -11,5 +11,7 @@ k-sheel, H-index
 3. $$L_s = \frac{1}{|S|(|S|-1)} \sum_{u, v \in S, u \neq v} d(u, v)$$
 
 # Run
-python ft.py 
+
+For each metric, change the network and then run for example
+python ft.py
 
