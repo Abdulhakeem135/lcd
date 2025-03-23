@@ -1,4 +1,4 @@
-#Copyright (c) 2019 Chungu Guo. All rights reserved.
+
 import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as np
